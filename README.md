@@ -1,20 +1,17 @@
-👋 Hi, there I'm Jatin Parmar.
+👋 Hi, there I'm Sandip Patel
 
-🔭 Github is my Instagram
-
-🔭 Linedlin is my facebook.
-
-📫🧧🔗 How to reach me: parmarjatin4911@gmail.com
+📫🧧🔗 How to reach me: sandippatel.vyara@gmail.com
 
 ⚡ Fun fact: only work at night.😁
+🖥 I am working as a Field Application Engineer (collect the knowledge of PLC,HMI, Panel Drawing & Also Energymeter System)
 
-🖥 I interest in Computer Science @ Latest Techlogy Researching,Hardware,Networking.
+🖥 I currently learning a Python coding (Data Science & Machine Learning) by training of SkillSanta centre & SwaYam Portal @ System Hardware,Networking.
 
-🛰 I Hobby Computer Science Testing,Research And Journey.
+🛰 I Hobby Computer Science Testing Research And
 
 ⌨ I Currently Learning ML.@ Data Science
 
-🎓 I 'm Graduate in BCA.
+🎓 I 'm Graduate in degree of Electronics & telecommunication .
 
 📕 I 'm  in Everytime New Technology Learn And Testing .
 
